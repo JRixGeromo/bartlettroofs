@@ -94,9 +94,8 @@
                      <li class="dropdown  " role="presentation">
                         <a href=roofing/index.html class="dropdown-toggle aMain" role="button" aria-expanded=false  >Residential Roofing</a>
                         <ul class='dropdown-menu' role='menu'>
-                           <!-- <li role="presentation"><a href="roofing/replacement/index.html" role="menuitem"  >Roof Replacement</a></li> -->
-                           <li role="presentation"><a href="/bartlettroofs/roofing/sample-post" role="menuitem"  >Roof Replacement</a></li>
-                           <li role="presentation"><a href="roofing/repair/index.html" role="menuitem"  >Roof Repair</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/roofing/roof-replacement" role="menuitem"  >Roof Replacement</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/roofing/roof-repair/" role="menuitem"  >Roof Repair</a></li>
                            <li role="presentation"><a href="roofing/owens-corning/index.html" role="menuitem"  >Owens Corning Roofing</a></li>
                            <li role="presentation"><a href="roofing/asphalt/index.html" role="menuitem"  >Asphalt Roofing</a></li>
                            <li role="presentation"><a href="roofing/wood-shake/index.html" role="menuitem"  >Wood Shake Roofing</a></li>
@@ -109,7 +108,7 @@
                      <li class="dropdown  " role="presentation">
                         <a href=commercial-roofing/index.html class="dropdown-toggle aMain" role="button" aria-expanded=false  >Commercial Roofing</a>
                         <ul class='dropdown-menu' role='menu'>
-                           <li role="presentation"><a href="commercial-roofing/replacement/index.html" role="menuitem"  >Roof Replacement</a></li>
+                           <li role="presentation"><a href="commercial-roofing/replacement" role="menuitem"  >Roof Replacement</a></li>
                            <li role="presentation"><a href="commercial-roofing/repair/index.html" role="menuitem"  >Roof Repair</a></li>
                            <li role="presentation"><a href="commercial-roofing/multi-family-roofing/index.html" role="menuitem"  >Multi Family Roofing</a></li>
                            <li role="presentation"><a href="commercial-roofing/roof-coatings/index.html" role="menuitem"  >Roof Coatings</a></li>

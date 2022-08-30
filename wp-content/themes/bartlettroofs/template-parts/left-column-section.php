@@ -90,34 +90,14 @@
          <!-- /.modal-dialog -->
       </div>
    </div>
-   <script defer="" src="/js/bundle/bundle.ui.gallery.min.js?v=16.19.1"></script>
-   <h1>Commercial Roof Repair Contractors</h1>
+   <script defer="" src="<?php echo get_stylesheet_directory_uri();?>/assets/js/bundle/bundle.ui.gallery.min.js?v=16.19.1"></script>
+   <h1><?php echo  the_field('left_content_header_1') ?></h1>
    <div class="page-content">
-      <p>Are you in need of roof repairs for your commercial property? You’re in the right place. Bartlett Roofing is one of the top commercial roof repair companies serving a wide area of the western United States, and our experts are just a phone call away. Not only are we accredited and A+ rated with&nbsp;the Better Business Bureau, but we're also an&nbsp;Owens Corning Preferred Contractor, a GAF-certified business, and a CertainTeed Master Shingle Applicator. That means you can count on us to make your business roofing project a breeze.&nbsp;</p>
-      <h2>Your Trusted Source for Top-Rated Commercial Roof Repairs</h2>
-      <p>Whether you own <a href="/commercial-roofing/multi-family-roofing/">multi-family living complexes</a>, offices, or any other type of commercial space, you can count on our commercial roof repair contractors at Bartlett Roofing to provide the best repair services. We have experience working with a variety of roofing materials, including asphalt, metal, TPO, and tile. Plus, we can install and maintain <a href="/commercial-roofing/roof-coatings/">roof coatings</a> for additional protection. When you choose to work with us, you can enjoy premium commercial roof repair services and benefits, including:</p>
-      <ul>
-         <li>Thorough Roof Inspections</li>
-         <li>Complimentary Roof Repair Estimates</li>
-         <li>Certified Commercial Roof Repair Specialists</li>
-         <li>Affordable Financing Options</li>
-         <li>Top-Rated Roofing Products</li>
-         <li>Efficient Commercial Roof Repairs</li>
-         <li>Routine Maintenance Plans</li>
-         <li><em>… and so much more!</em></li>
-      </ul>
-      <h2>Learn More About Our Comprehensive Commercial Roofing Care Today</h2>
-      <p>As a <a href="/commercial-roofing/">professional commercial roofing team</a>, Bartlett Roofing knows how best to take care of your property. When you choose us to handle your repairs, you can enjoy comprehensive care that meets your wants and needs. Plus, we can handle a wide range of other roofing services, including:&nbsp;</p>
-      <ul>
-         <li><a href="/commercial-roofing/replacement/">Commercial Roof Replacements</a></li>
-         <li>Multi-Family Roofing Care</li>
-         <li>Top-Rated Roof Coatings</li>
-         <li>Asphalt Roof Systems</li>
-         <li>Metal Roofing Options</li>
-         <li>TPO Roofs</li>
-         <li>Tile Roofing</li>
-         <li><em>… and more!</em></li>
-      </ul>
-      <p>If you’re ready to repair your roof system, get in touch with our experts at Bartlett Roofing to schedule a complimentary inspection right away.</p>
+      <p><?php echo the_field('left_content_1') ?></p>
+      <h2><?php echo the_field('left_content_header_2') ?></h2>
+      <p><?php echo the_field('left_content_2') ?></p>
+      <h2><?php echo the_field('left_content_header_3') ?></h2>
+      <p><?php echo the_field('left_content_3') ?></p>
+      <?php echo the_field('residential_roofing_bread_crumb') ?>
    </div>
 </div>
