@@ -96,7 +96,7 @@
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="/bartlettroofs/roofing/roof-replacement" role="menuitem"  >Roof Replacement</a></li>
                            <li role="presentation"><a href="/bartlettroofs/roofing/roof-repair/" role="menuitem"  >Roof Repair</a></li>
-                           <li role="presentation"><a href="roofing/owens-corning/index.html" role="menuitem"  >Owens Corning Roofing</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/roofing/owens-corning" role="menuitem"  >Owens Corning Roofing</a></li>
                            <li role="presentation"><a href="roofing/asphalt/index.html" role="menuitem"  >Asphalt Roofing</a></li>
                            <li role="presentation"><a href="roofing/wood-shake/index.html" role="menuitem"  >Wood Shake Roofing</a></li>
                            <li role="presentation"><a href="roofing/tile/index.html" role="menuitem"  >Tile Roofing</a></li>
@@ -108,7 +108,7 @@
                      <li class="dropdown  " role="presentation">
                         <a href=commercial-roofing/index.html class="dropdown-toggle aMain" role="button" aria-expanded=false  >Commercial Roofing</a>
                         <ul class='dropdown-menu' role='menu'>
-                           <li role="presentation"><a href="commercial-roofing/replacement" role="menuitem"  >Roof Replacement</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/replacement" role="menuitem"  >Roof Replacement</a></li>
                            <li role="presentation"><a href="commercial-roofing/repair/index.html" role="menuitem"  >Roof Repair</a></li>
                            <li role="presentation"><a href="commercial-roofing/multi-family-roofing/index.html" role="menuitem"  >Multi Family Roofing</a></li>
                            <li role="presentation"><a href="commercial-roofing/roof-coatings/index.html" role="menuitem"  >Roof Coatings</a></li>
@@ -121,7 +121,7 @@
                      <li class="dropdown  " role="presentation">
                         <a href=storm-damage-restoration/index.html class="dropdown-toggle aMain" role="button" aria-expanded=false  >Storm Damage</a>
                         <ul class='dropdown-menu' role='menu'>
-                           <li role="presentation"><a href="storm-damage-restoration/our-process/index.html" role="menuitem"  >Our Process</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/storm-damage-restoration/storm-damage" role="menuitem"  >Our Process</a></li>
                            <li role="presentation"><a href="storm-damage-restoration/storm-damage/index.html" role="menuitem"  >Storm Damage</a></li>
                            <li role="presentation"><a href="storm-damage-restoration/wind-damage/index.html" role="menuitem"  >Wind Damage</a></li>
                            <li role="presentation"><a href="storm-damage-restoration/hail-damage/index.html" role="menuitem"  >Hail Damage</a></li>
@@ -129,7 +129,7 @@
                         </ul>
                      </li>
                      <li class="dropdown  " role="presentation">
-                        <a href=about-us/index.html class="dropdown-toggle aMain" role="button" aria-expanded=false  >About</a>
+                        <a href="/bartlettroofs/about-us/about-us" class="dropdown-toggle aMain" role="button" aria-expanded=false  >About</a>
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="blog/index.html" role="menuitem"  >Blog</a></li>
                            <li role="presentation"><a href="offers/index.html" role="menuitem"  >Offers</a></li>
