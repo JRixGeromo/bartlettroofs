@@ -1,7 +1,18 @@
 <?php
    get_header();
 ?>
-<input type="hidden" id="page-selected" value="single">
+      <!-- note: need to add condition in order to show the main page or the category page -->
+      <!-- main pages -->
+      <?php
+         get_template_part('template-parts/main-roofing-section','main-roofing-section');
+      ?>
+      <!-- end of: main pages -->
+
+
+        
+      <!-- note: need to add condition in order to show the main page or the category page -->
+      <!-- subpages -->
+      <input type="hidden" id="page-selected" value="single">
       <a href="#price-quote" class="btn btn-primary btn-quote-ft-mobile scroll-to showme">Book Your Inspection</a>
       <?php
          get_template_part('template-parts/center-wide-column-section','center-wide-column-section');
@@ -19,7 +30,8 @@
       <?php
          get_template_part('template-parts/lower-bread-crumb-section','lower-bread-crumb-section');
       ?>
-<!-- /wrapper -->
+      <!-- end of: subpages -->
+
 <?php
    get_footer();
 ?>
