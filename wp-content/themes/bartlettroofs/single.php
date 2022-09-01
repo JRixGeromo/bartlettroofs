@@ -3,15 +3,15 @@
    $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
 ?>    
       <?php if($uri_segments[3] == "roofing") { ?>
+
          <style>
             .page-hero { margin-bottom: 0px; }
          </style>   
          <!-- note: need to add condition in order to show the main page or the category page -->
          <!-- main pages -->
-         <a href="#price-quote" class="btn btn-primary btn-quote-ft-mobile scroll-to showme">Book Your Inspection</a>
          <input type="hidden" id="page-selected" value="front">
          <?php
-            get_template_part('template-parts/main-roofing-section','main-roofing-section');
+            get_template_part('templates/main-page','main-page');
          ?>
          <!-- end of: main pages -->
 
