@@ -16,28 +16,28 @@
             <div class="col-xs-3">
                <div class="page-gallery-thumbnail">
                   <a href="../../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777092406" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" data-backdrop="static">
-                  <img class="lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" alt="Residential Roofing Photo 1" />
+                  <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" alt="Residential Roofing Photo 1" />
                   </a>
                </div>
             </div>
             <div class="col-xs-3">
                <div class="page-gallery-thumbnail">
                   <a href="../../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777082512" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" data-backdrop="static">
-                  <img class="lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" alt="Residential Roofing Photo 2" />
+                  <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" alt="Residential Roofing Photo 2" />
                   </a>
                </div>
             </div>
             <div class="col-xs-3">
                <div class="page-gallery-thumbnail">
                   <a href="../../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777077347" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" data-backdrop="static">
-                  <img class="lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" alt="Residential Roofing Photo 3" />
+                  <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" alt="Residential Roofing Photo 3" />
                   </a>
                </div>
             </div>
             <div class="col-xs-3">
                <div class="page-gallery-thumbnail">
                   <a href="../../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/41de6146-0136-497f-854b-38cb0409b2b2.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777075019" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/41de6146-0136-497f-854b-38cb0409b2b2.jpg" data-backdrop="static">
-                  <img class="lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/41de6146-0136-497f-854b-38cb0409b2b2.jpg" alt="Residential Roofing Photo 4" />
+                  <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/41de6146-0136-497f-854b-38cb0409b2b2.jpg" alt="Residential Roofing Photo 4" />
                   </a>
                </div>
             </div>

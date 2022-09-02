@@ -10,6 +10,6 @@
       </div>
    </div>
    <picture>
-      <img class="page-hero-bg" src="<?php echo get_stylesheet_directory_uri();?>//images/page/hero-roofing.jpg" alt="Background Photo" />
+      <img class="page-hero-bg" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/hero-roofing.jpg" alt="Background Photo" />
    </picture>
 </figure>

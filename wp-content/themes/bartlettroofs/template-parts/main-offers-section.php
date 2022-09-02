@@ -9,7 +9,7 @@
                         <div class="panel panel-default">
                            <div class="panel-hero">
                               <a href="../offers/financing/index.html" >
-                              <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/355b1897-0811-473a-b697-01fd19b3a72d.png" alt="Quick Apply Now: One-Step Financing Applications!">
+                              <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/355b1897-0811-473a-b697-01fd19b3a72d.png" alt="Quick Apply Now: One-Step Financing Applications!">
                               </a>
                            </div>
                            <div class="panel-body match-height">
@@ -70,7 +70,7 @@
                         <div class="panel panel-default">
                            <div class="panel-hero">
                               <a href="../offers/referral-bonus/index.html" >
-                              <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/e89c9047-ae91-43e5-9351-c955ba5e4fa5.png" alt="Earn up to $1,000 in Referrals From Bartlett Roofing">
+                              <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/e89c9047-ae91-43e5-9351-c955ba5e4fa5.png" alt="Earn up to $1,000 in Referrals From Bartlett Roofing">
                               </a>
                            </div>
                            <div class="panel-body match-height">
@@ -131,7 +131,7 @@
                         <div class="panel panel-default">
                            <div class="panel-hero">
                               <a href="../offers/warranty/index.html" >
-                              <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/6b0e9ace-a903-4d69-b6ee-8a1042b16b07.png" alt="Get 100% Warranty Coverage on Labor for 5 Years!">
+                              <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/6b0e9ace-a903-4d69-b6ee-8a1042b16b07.png" alt="Get 100% Warranty Coverage on Labor for 5 Years!">
                               </a>
                            </div>
                            <div class="panel-body match-height">

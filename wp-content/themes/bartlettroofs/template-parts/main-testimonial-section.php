@@ -72,31 +72,31 @@
                <div class="carousel-inner" role="listbox">
                   <div class="item active">
                      <a class="activate-video" href="#modal-video" data-toggle="modal" data-thevideo="//www.youtube.com/embed/l-a19Tdf7RM?autoplay=1&modestbranding=1&autohide=1&showinfo=0&rel=0">
-                        <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="/img/home/testimonial-video-one.jpg" alt="Customer Testimonial">
+                        <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/testimonial-video-one.jpg" alt="Customer Testimonial">
                         <div class="video-icon"><i class="fas fa-play-circle"></i></div>
                      </a>
                   </div>
                   <div class="item">
                      <a class="activate-video" href="#modal-video" data-toggle="modal" data-thevideo="//www.youtube.com/embed/N3Lvff81hMM?autoplay=1&modestbranding=1&autohide=1&showinfo=0&rel=0">
-                        <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="/img/home/testimonial-video-two.jpg" alt="Customer Testimonial">
+                        <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/testimonial-video-two.jpg" alt="Customer Testimonial">
                         <div class="video-icon"><i class="fas fa-play-circle"></i></div>
                      </a>
                   </div>
                   <div class="item">
                      <a class="activate-video" href="#modal-video" data-toggle="modal" data-thevideo="//www.youtube.com/embed/BPtPBrOlw0Y?autoplay=1&modestbranding=1&autohide=1&showinfo=0&rel=0">
-                        <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="/img/home/testimonial-video-three.jpg" alt="Customer Testimonial">
+                        <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/testimonial-video-three.jpg" alt="Customer Testimonial">
                         <div class="video-icon"><i class="fas fa-play-circle"></i></div>
                      </a>
                   </div>
                   <div class="item">
                      <a class="activate-video" href="#modal-video" data-toggle="modal" data-thevideo="//www.youtube.com/embed/Rz6adxzzGQQ?autoplay=1&modestbranding=1&autohide=1&showinfo=0&rel=0">
-                        <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="/img/home/testimonial-video-four.jpg" alt="Customer Testimonial">
+                        <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/testimonial-video-four.jpg" alt="Customer Testimonial">
                         <div class="video-icon"><i class="fas fa-play-circle"></i></div>
                      </a>
                   </div>
                   <div class="item">
                      <a class="activate-video" href="#modal-video" data-toggle="modal" data-thevideo="//www.youtube.com/embed/2bYlG9FLyLg?autoplay=1&modestbranding=1&autohide=1&showinfo=0&rel=0">
-                        <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="/img/home/testimonial-video-five.jpg" alt="Customer Testimonial">
+                        <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/testimonial-video-five.jpg" alt="Customer Testimonial">
                         <div class="video-icon"><i class="fas fa-play-circle"></i></div>
                      </a>
                   </div>
