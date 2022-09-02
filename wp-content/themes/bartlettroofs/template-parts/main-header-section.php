@@ -3,8 +3,8 @@
       <div class="div-table-cell">
          <div class="container">
             <figcaption class="hero-inner">
-               <div class="h1">Enhance Your Home with Top-Rated Roofing Care</div>
-               <div class="lead">Enjoy top-rated roofing solutions, high-quality products, and unmatched customer service.</div>
+               <div class="h1"><?php echo the_field('main_header_section') ?></div>
+               <div class="lead"><?php echo the_field('main_header_section_content') ?></div>
             </figcaption>
          </div>
       </div>

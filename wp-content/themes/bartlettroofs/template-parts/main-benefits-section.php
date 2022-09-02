@@ -1,6 +1,6 @@
 <div class="page-section benefits-section triggerAnimate fadeInUp">
    <div class="section-header">
-      <h2 class="section-title">Why Choose Our Roofing Team?</h2>
+      <h2 class="section-title"><?php echo the_field('main_benefits_section') ?></h2>
    </div>
    <div class="container">
       <div class="row scroll-row">

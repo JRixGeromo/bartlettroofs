@@ -2,8 +2,7 @@
    get_header();
    $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
 ?>    
-      <?php if($uri_segments[3] == "roofing") { ?>
-
+      <?php if($uri_segments[2] == "main") { ?>
          <style>
             .page-hero { margin-bottom: 0px; }
          </style>   
@@ -14,9 +13,7 @@
             get_template_part('templates/main-page','main-page');
          ?>
          <!-- end of: main pages -->
-
       <?php } else { ?>
-        
          <!-- note: need to add condition in order to show the main page or the category page -->
          <!-- subpages -->
          <input type="hidden" id="page-selected" value="single">

@@ -47,7 +47,7 @@
          ?>         
          <!-- service areas section -->
          <?php
-            get_template_part('template-parts/main-cta-section-section','main-cta-section-section');
+            get_template_part('template-parts/main-cta-section','main-cta-section-');
          ?>           
          <!-- cta section -->
       </div>

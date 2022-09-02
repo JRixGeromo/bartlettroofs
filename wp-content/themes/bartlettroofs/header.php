@@ -92,7 +92,7 @@
                   </button>
                   <ul class="nav navbar-nav" role="menubar">
                      <li class="dropdown  " role="presentation">
-                        <a href="/bartlettroofs/roofing/roofing" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Residential Roofing</a>
+                        <a href="/bartlettroofs/main/residential-roofing" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Residential Roofing</a>
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="/bartlettroofs/roofing/replacement" role="menuitem"  >Roof Replacement</a></li>
                            <li role="presentation"><a href="/bartlettroofs/roofing/repair" role="menuitem"  >Roof Repair</a></li>
@@ -106,7 +106,7 @@
                         </ul>
                      </li>
                      <li class="dropdown  " role="presentation">
-                        <a href=commercial-roofing/index.html class="dropdown-toggle aMain" role="button" aria-expanded=false  >Commercial Roofing</a>
+                        <a href="/bartlettroofs/main/commercial-roofing" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Commercial Roofing</a>
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="/bartlettroofs/commercial-roofing/replacement-2" role="menuitem"  >Roof Replacement</a></li>
                            <li role="presentation"><a href="/bartlettroofs/commercial-roofing/repair-2" role="menuitem"  >Roof Repair</a></li>
@@ -119,7 +119,7 @@
                         </ul>
                      </li>
                      <li class="dropdown  " role="presentation">
-                        <a href=storm-damage-restoration/index.html class="dropdown-toggle aMain" role="button" aria-expanded=false  >Storm Damage</a>
+                        <a href="bartlettroofs/main/storm-damage-2" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Storm Damage</a>
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="/bartlettroofs/storm-damage-restoration/our-process" role="menuitem"  >Our Process</a></li>
                            <li role="presentation"><a href="/bartlettroofs/storm-damage-restoration/storm-damage" role="menuitem"  >Storm Damage</a></li>

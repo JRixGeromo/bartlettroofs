@@ -2,8 +2,8 @@
    <div class="container">
       <div class="row">
          <div class="col-md-9 match-height triggerAnimate fadeInLeft delay-2ms">
-            <h2 class="section-title">Comprehensive Roofing Care</h2>
-            <p class="lead">When you choose Bartlett Roofing as your expert roofers, you can enjoy top-rated products and services that meet your wants and needs for your property. As a full-service roofing company, we’ll be there to help with repairs, replacements, and anything in between.</p>
+            <h2 class="section-title"><?php echo the_field('main_services_section') ?></h2>
+            <p class="lead"><?php echo the_field('main_services_section_content') ?></p>
          </div>
          <div class="col-md-3 match-height triggerAnimate fadeInRight delay-4ms">
             <div class="div-table">
