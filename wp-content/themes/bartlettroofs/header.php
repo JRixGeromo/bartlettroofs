@@ -6,7 +6,7 @@
    <!-- /Added by HTTrack -->
    <head>
       <meta charset="utf-8">
-      <title>Roofing and Storm Restoration Contractors | Free Roof Inspection | Bartlett Roofing</title>
+      <!-- <title>Roofing and Storm Restoration Contractors | Free Roof Inspection | Bartlett Roofing</title>
       <meta name="description" content="Bartlett Roofing is a professional remodeling company servicing Idaho, andUtah, andWashington, andMontana. Learn more about our company and get a quote today!">
       <meta name="keywords" content="roofing, roofers, roofing company, roofing contractors, residential roofing, home roofing, commercial roofing, storm damage restoration, roof replacement, roof repair">
       <link rel="canonical" href="index.html" />
@@ -21,6 +21,26 @@
       <meta property="twitter:card" content="summary" />
       <meta property="twitter:title" content="Roofing and Storm Restoration Contractors | Free Roof Inspection | Bartlett Roofing" />
       <meta property="twitter:description" content="Bartlett Roofing is a professional remodeling company servicing Idaho, andUtah, andWashington, andMontana. Learn more about our company and get a quote today!" />
+      <meta property="twitter:image" content="<?php echo get_stylesheet_directory_uri();?>/assets/cmsplatform.blob.core.windows.net/wwwbartlettroofscom/logos/8e3f90c7-3f0e-43ca-a14b-b5252d6f7600.png" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="preconnect" href="https://fonts.googleapis.com/">
+      <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin> -->
+
+      <title><?php echo the_field('page_title') ?></title>
+      <meta name="description" content="<?php echo the_field('page_title') ?>">
+      <meta name="keywords" content="<?php echo the_field('name_keywords') ?>">
+      <link rel="canonical" href="index.html" />
+      <meta property="og:title" content="<?php echo the_field('property_og_title') ?>" />
+      <meta itemprop="name" content="<?php echo the_field('itemprop_name') ?>" />
+      <meta property="og:description" content="<?php echo the_field('property_og_description') ?>" />
+      <meta itemprop="description" content="<?php echo the_field('itemprop_description') ?>" />
+      <meta property="og:image" content="<?php echo get_stylesheet_directory_uri();?>/assets/cmsplatform.blob.core.windows.net/wwwbartlettroofscom/logos/8e3f90c7-3f0e-43ca-a14b-b5252d6f7600.png" />
+      <meta itemprop="image" content="<?php echo get_stylesheet_directory_uri();?>/assets/cmsplatform.blob.core.windows.net/wwwbartlettroofscom/logos/8e3f90c7-3f0e-43ca-a14b-b5252d6f7600.png" />
+      <meta property="og:url" content="index.html" />
+      <meta property="og:type" content="article" />
+      <meta property="twitter:card" content="summary" />
+      <meta property="twitter:title" content="<?php echo the_field('property_twitter_title') ?>" />
+      <meta property="twitter:description" content="<?php echo the_field('property_twitter_description') ?>" />
       <meta property="twitter:image" content="<?php echo get_stylesheet_directory_uri();?>/assets/cmsplatform.blob.core.windows.net/wwwbartlettroofscom/logos/8e3f90c7-3f0e-43ca-a14b-b5252d6f7600.png" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="preconnect" href="https://fonts.googleapis.com/">
