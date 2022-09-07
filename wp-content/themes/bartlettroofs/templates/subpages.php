@@ -4,6 +4,14 @@
 
    if($uri_segments[2] == 'offers' && $uri_segments[3] == 'offers') { 
       get_template_part('template-parts/offers-content-section','offers-content-section');
+   } else if($uri_segments[2] == 'gallery' && $uri_segments[3] == 'gallery') { 
+      get_template_part('template-parts/gallery-content-section','gallery-content-section');
+   } else if($uri_segments[2] == 'careers' && $uri_segments[3] == 'careers') { 
+      get_template_part('template-parts/careers-content-section','careers-content-section');
+   } else if($uri_segments[2] == 'contact-us' && $uri_segments[3] == 'contact-us') { 
+      get_template_part('template-parts/contact-us-content-section','contact-us-content-section');
+   } else if($uri_segments[2] == 'customer-service' && $uri_segments[3] == 'customer-service') { 
+      get_template_part('template-parts/customer-service-content-section','customer-service-content-section');
    } else {
       get_template_part('template-parts/center-wide-column-section','center-wide-column-section');
       ?>

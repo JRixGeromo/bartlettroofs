@@ -158,14 +158,14 @@
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="blog/index.html" role="menuitem"  >Blog</a></li>
                            <li role="presentation"><a href="/bartlettroofs/offers/offers" role="menuitem"  >Offers</a></li>
-                           <li role="presentation"><a href="gallery/index.html" role="menuitem"  >Gallery</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/gallery/gallery" role="menuitem"  >Gallery</a></li>
                            <li role="presentation"><a href="reviews/index.html" role="menuitem"  >Reviews</a></li>
-                           <li role="presentation"><a href="careers/index.html" role="menuitem"  >Careers</a></li>
-                           <li role="presentation"><a href="contact-us/index.html" role="menuitem"  >Contact</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/careers/careers" role="menuitem"  >Careers</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/contact-us/contact-us" role="menuitem"  >Contact</a></li>
                            <li role="presentation"><a href="/bartlettroofs/offers/warranty" role="menuitem"  >Warranty</a></li>
                            <li role="presentation"><a href="/bartlettroofs/offers/financing" role="menuitem"  >Financing</a></li>
                            <li role="presentation"><a href="/bartlettroofs/offers/service-areas" role="menuitem"  >Service Areas</a></li>
-                           <li role="presentation"><a href="customer-service/index.html" role="menuitem"  >Customer Service</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/customer-service/customer-service" role="menuitem"  >Customer Service</a></li>
                            <li role="presentation"><a href="past-projects/index1d78.html?map" role="menuitem"  >Past Projects</a></li>
                         </ul>
                      </li>
