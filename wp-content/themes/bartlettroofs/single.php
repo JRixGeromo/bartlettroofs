@@ -10,7 +10,7 @@
          <!-- main pages -->
          <input type="hidden" id="page-selected" value="front">
          <?php
-            get_template_part('templates/main-page','main-page');
+            get_template_part('templates/main-pages','main-pages');
          ?>
          <!-- end of: main pages -->
       <?php } else { ?>         
@@ -18,20 +18,7 @@
          <!-- subpages -->
          <input type="hidden" id="page-selected" value="<?php echo ($uri_segments[2] == 'offer' ? 'front':'single') ?>">
          <?php
-            get_template_part('template-parts/center-wide-column-section','center-wide-column-section');
-         ?>
-         <div class="container container-page">
-            <div class="row">
-               <?php
-                  get_template_part('template-parts/left-column-section','left-column-section');
-               ?>
-               <?php
-                  get_template_part('template-parts/right-column-section','right-column-section');
-               ?>
-            </div>
-         </div>
-         <?php
-            get_template_part('template-parts/lower-bread-crumb-section','lower-bread-crumb-section');
+            get_template_part('templates/subpages','subpages');
          ?>
          <!-- end of: subpages -->
       <?php } ?>
