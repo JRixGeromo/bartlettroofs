@@ -23,13 +23,13 @@
                   </div>
                </div>
                <div class="item">
-                  <img class="img-responsive center-block hvr-float filter-none" src="<?php echo get_stylesheet_directory_uri();?>/assets/images//home/brand-inc.svg" alt="Inc 500">
+                  <img class="img-responsive center-block hvr-float filter-none" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/brand-inc.svg" alt="Inc 500">
                </div>
                <div class="item">
-                  <img class="img-responsive center-block hvr-float" src="<?php echo get_stylesheet_directory_uri();?>/assets/images//home/brand-bbb.svg" alt="BBB">
+                  <img class="img-responsive center-block hvr-float" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/brand-bbb.svg" alt="BBB">
                </div>
                <div class="item">
-                  <img class="img-responsive center-block hvr-float" src="<?php echo get_stylesheet_directory_uri();?>/assets/images//home/brand-owenscorning.svg" alt="Owens Corning">
+                  <img class="img-responsive center-block hvr-float" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/brand-owenscorning.svg" alt="Owens Corning">
                </div>
             </div>
             <!-- /col -->
