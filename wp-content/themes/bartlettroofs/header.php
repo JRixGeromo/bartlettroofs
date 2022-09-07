@@ -28,6 +28,8 @@
 
       <title><?php echo the_field('page_title') ?></title>
       <meta name="description" content="<?php echo the_field('page_title') ?>">
+      <meta property="og:site_name" content="<?php echo the_field('site_name') ?>" />
+      <meta name="description" content="<?php echo the_field('page_title') ?>">
       <meta name="keywords" content="<?php echo the_field('name_keywords') ?>">
       <link rel="canonical" href="index.html" />
       <meta property="og:title" content="<?php echo the_field('property_og_title') ?>" />
@@ -161,8 +163,8 @@
                            <li role="presentation"><a href="careers/index.html" role="menuitem"  >Careers</a></li>
                            <li role="presentation"><a href="contact-us/index.html" role="menuitem"  >Contact</a></li>
                            <li role="presentation"><a href="offers/warranty/index.html" role="menuitem"  >Warranty</a></li>
-                           <li role="presentation"><a href="offers/financing/index.html" role="menuitem"  >Financing</a></li>
-                           <li role="presentation"><a href="service-areas/index.html" role="menuitem"  >Service Areas</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/offers/financing" role="menuitem"  >Financing</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/offers/service-areas" role="menuitem"  >Service Areas</a></li>
                            <li role="presentation"><a href="customer-service/index.html" role="menuitem"  >Customer Service</a></li>
                            <li role="presentation"><a href="past-projects/index1d78.html?map" role="menuitem"  >Past Projects</a></li>
                         </ul>
