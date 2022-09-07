@@ -13,7 +13,18 @@
             get_template_part('templates/main-page','main-page');
          ?>
          <!-- end of: main pages -->
-      <?php } else { ?>
+      <?php } else if($uri_segments[2] == "about-us") { ?>
+         <style>
+            .page-hero { margin-bottom: 0px; }
+         </style>   
+         <!-- note: need to add condition in order to show the main page or the category page -->
+         <!-- main pages -->
+         <input type="hidden" id="page-selected" value="front">
+         <?php
+            get_template_part('templates/main-page','main-page');
+         ?>
+         <!-- end of: main pages -->
+      <?php } else { ?>         
          <!-- note: need to add condition in order to show the main page or the category page -->
          <!-- subpages -->
          <input type="hidden" id="page-selected" value="single">
