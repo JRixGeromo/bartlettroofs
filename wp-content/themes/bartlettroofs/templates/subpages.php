@@ -23,6 +23,10 @@
             <?php
                if($uri_segments[2] == 'offers') { 
                   get_template_part('template-parts/right-column-offers-section','right-column-offers-section');
+               } else if($uri_segments[2] == 'blog') { 
+                  get_template_part('template-parts/right-column-blog-section','right-column-blog-section');
+               } else if($uri_segments[2] == 'reviews') { 
+                  get_template_part('template-parts/right-column-reviews-section','right-column-reviews-section');
                } else {
                   get_template_part('template-parts/right-column-section','right-column-section');
                }

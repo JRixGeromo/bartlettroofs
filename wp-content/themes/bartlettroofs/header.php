@@ -156,10 +156,10 @@
                      <li class="dropdown  " role="presentation">
                         <a href="/bartlettroofs/about-us/about-us" class="dropdown-toggle aMain" role="button" aria-expanded=false  >About</a>
                         <ul class='dropdown-menu' role='menu'>
-                           <li role="presentation"><a href="blog/index.html" role="menuitem"  >Blog</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/blog/blog" role="menuitem"  >Blog</a></li>
                            <li role="presentation"><a href="/bartlettroofs/offers/offers" role="menuitem"  >Offers</a></li>
                            <li role="presentation"><a href="/bartlettroofs/gallery/gallery" role="menuitem"  >Gallery</a></li>
-                           <li role="presentation"><a href="reviews/index.html" role="menuitem"  >Reviews</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/reviews/reviews" role="menuitem"  >Reviews</a></li>
                            <li role="presentation"><a href="/bartlettroofs/careers/careers" role="menuitem"  >Careers</a></li>
                            <li role="presentation"><a href="/bartlettroofs/contact-us/contact-us" role="menuitem"  >Contact</a></li>
                            <li role="presentation"><a href="/bartlettroofs/offers/warranty" role="menuitem"  >Warranty</a></li>
