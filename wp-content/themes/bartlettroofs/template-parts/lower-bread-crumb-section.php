@@ -22,12 +22,14 @@
                 </a>
                 <meta itemprop="position" content="2">
             </li>
+            <?php if(isset($uri_segments[3])) { ?>
             <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
                 <a itemprop="item" href="<?php echo $url3 ?>">
                     <span itemprop="name"><?php the_field('bread_crumb_2') ?></span>
                 </a>
                 <meta itemprop="position" content="2">
             </li>
+            <?php } ?>
         </ol>
     </div>
 </div>
