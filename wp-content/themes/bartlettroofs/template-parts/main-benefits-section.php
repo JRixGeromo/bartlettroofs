@@ -1,6 +1,6 @@
 <div class="page-section benefits-section triggerAnimate fadeInUp">
    <div class="section-header">
-      <h2 class="section-title"><?php echo the_field('main_benefits_section') ?></h2>
+      <h2 class="section-title"><?php the_field('main_benefits_section') ?></h2>
    </div>
    <?php
       $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));

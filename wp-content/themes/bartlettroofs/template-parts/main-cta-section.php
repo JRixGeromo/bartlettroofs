@@ -2,8 +2,8 @@
    <div class="container">
       <div class="row">
          <div class="col-md-9 match-height triggerAnimate fadeInLeft delay-2ms">
-            <h2 class="section-title"><?php echo the_field('main_cta_section') ?></h2>
-            <p><?php echo the_field('main_cta_section_content') ?></p>
+            <h2 class="section-title"><?php the_field('main_cta_section') ?></h2>
+            <p><?php the_field('main_cta_section_content') ?></p>
          </div>
          <div class="col-md-3 match-height triggerAnimate fadeInRight delay-4ms">
             <div class="div-table">

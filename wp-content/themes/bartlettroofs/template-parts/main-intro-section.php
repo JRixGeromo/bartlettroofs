@@ -15,8 +15,8 @@
          <div class="col-md-5 intro-bg <?php echo $cls ?> match-height"></div>
          <div class="col-md-7 match-height">
             <div class="row intro-content">
-               <h1><?php echo the_field('main_intro_section') ?></h1>
-               <p><?php echo the_field('main_intro_section_content') ?></p>
+               <h1><?php the_field('main_intro_section') ?></h1>
+               <p><?php the_field('main_intro_section_content') ?></p>
             </div>
          </div>
       </div>

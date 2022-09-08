@@ -93,19 +93,19 @@
    <script defer="" src="<?php echo get_stylesheet_directory_uri();?>/assets/js/bundle/bundle.ui.gallery.min.js?v=16.19.1"></script>
    <h1><?php echo  the_field('left_content_header_1') ?></h1>
    <div class="page-content">
-      <p><?php echo the_field('left_content_1') ?></p>
-      <h2><?php echo the_field('left_content_header_2') ?></h2>
-      <p><?php echo the_field('left_content_2') ?></p>
-      <h2><?php echo the_field('left_content_header_3') ?></h2>
-      <p><?php echo the_field('left_content_3') ?></p>
-      <h2><?php echo the_field('left_content_header_4') ?></h2>
-      <p><?php echo the_field('left_content_4') ?></p>
+      <p><?php the_field('left_content_1') ?></p>
+      <h2><?php the_field('left_content_header_2') ?></h2>
+      <p><?php the_field('left_content_2') ?></p>
+      <h2><?php the_field('left_content_header_3') ?></h2>
+      <p><?php the_field('left_content_3') ?></p>
+      <h2><?php the_field('left_content_header_4') ?></h2>
+      <p><?php the_field('left_content_4') ?></p>
       <?php
          $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
          if($uri_segments[2]=='about-us') {
             get_template_part('template-parts/left-column-google-section','left-column-google-section');
          }
       ?>
-      <?php echo the_field('residential_roofing_bread_crumb') ?>
+      <?php the_field('residential_roofing_bread_crumb') ?>
    </div>
 </div>`

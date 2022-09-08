@@ -2,7 +2,7 @@
    <div class="container">
       <div class="row">
          <div class="col-md-9 triggerAnimate fadeInLeft delay-2ms">
-            <h2 class="section-title"><?php echo the_field('main_service_areas_section') ?></h2>
+            <h2 class="section-title"><?php the_field('main_service_areas_section') ?></h2>
          </div>
          <div class="col-md-3 triggerAnimate fadeInRight delay-4ms">
             <a href="../service-areas/index.html" class="btn btn-info btn-lg btn-padding">View More</a>
