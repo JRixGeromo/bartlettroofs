@@ -100,12 +100,14 @@
       <p><?php the_field('left_content_3') ?></p>
       <h2><?php the_field('left_content_header_4') ?></h2>
       <p><?php the_field('left_content_4') ?></p>
+      <h2><?php the_field('left_content_header_5') ?></h2>
+      <p><?php the_field('left_content_5') ?></p>      
       <?php
          $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
          if($uri_segments[2]=='about-us') {
             get_template_part('template-parts/left-column-google-section','left-column-google-section');
          }
       ?>
-      <?php the_field('residential_roofing_bread_crumb') ?>
+      <?php // the_field('residential_roofing_bread_crumb') ?>
    </div>
 </div>`

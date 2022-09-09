@@ -64,11 +64,11 @@
                            Service Areas            
                         </p>
                         <ul class="list-unstyled">
-                           <li class=""><a href="spokane-wa/index.html"  >Spokane, WA</a></li>
-                           <li class=""><a href="boise-id/index.html"  >Boise, ID</a></li>
-                           <li class=""><a href="idaho-falls-id/index.html"  >Idaho Falls, ID</a></li>
-                           <li class=""><a href="salt-lake-city-ut/index.html"  >Salt Lake City, UT</a></li>
-                           <li class=""><a href="kalispell-mt/index.html"  >Kalispell, MT</a></li>
+                           <li class=""><a href="/bartlettroofs/other-pages/spokane-wa"  >Spokane, WA</a></li>
+                           <li class=""><a href="/bartlettroofs/other-pages/boise-id"  >Boise, ID</a></li>
+                           <li class=""><a href="/bartlettroofs/other-pages/idaho-falls-id"  >Idaho Falls, ID</a></li>
+                           <li class=""><a href="/bartlettroofs/other-pages/salt-lake-city-ut"  >Salt Lake City, UT</a></li>
+                           <li class=""><a href="/bartlettroofs/other-pages/kalispell-mt"  >Kalispell, MT</a></li>
                            <li class=""><a href="service-areas/index.html"  >View All</a></li>
                         </ul>
                      </div>
