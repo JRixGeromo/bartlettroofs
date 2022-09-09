@@ -16,7 +16,7 @@
       <?php } else { ?>         
          <!-- note: need to add condition in order to show the main page or the category page -->
          <!-- subpages -->
-         <input type="hidden" id="page-selected" value="<?php echo ($uri_segments[2] == 'offer' ? 'front':'single') ?>">
+         <input type="hidden" id="page-selected" value="single">
          <?php
             get_template_part('templates/subpages','subpages');
          ?>
