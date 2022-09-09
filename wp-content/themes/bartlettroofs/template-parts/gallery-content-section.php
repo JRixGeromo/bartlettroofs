@@ -10,8 +10,8 @@
       <div class="row mb-2">
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777092406" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" alt="Residential Roofing Photo 1">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777092406" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/a58ad7a9-baf8-41e3-9590-badeda7f00a9.jpg" alt="Residential Roofing Photo 1">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -19,8 +19,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777082512" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" alt="Residential Roofing Photo 2">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777082512" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/65de92c6-46ce-4024-af44-ea5241a5a0de.jpg" alt="Residential Roofing Photo 2">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -28,8 +28,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777077347" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" alt="Residential Roofing Photo 3">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777077347" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/06d86ac5-751e-4b09-a837-8f326db37a86.jpg" alt="Residential Roofing Photo 3">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -37,8 +37,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/41de6146-0136-497f-854b-38cb0409b2b2.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777075019" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/41de6146-0136-497f-854b-38cb0409b2b2.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/41de6146-0136-497f-854b-38cb0409b2b2.jpg" alt="Residential Roofing Photo 4">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/41de6146-0136-497f-854b-38cb0409b2b2.jpg" data-bsgallery="Residential Roofing" data-galleryid="788793809067451" data-itemid="788793809067451-788790777075019" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/41de6146-0136-497f-854b-38cb0409b2b2.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/41de6146-0136-497f-854b-38cb0409b2b2.jpg" alt="Residential Roofing Photo 4">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -143,8 +143,8 @@
       <div class="row mb-2">
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/2e1678c7-13fb-4208-a2e1-398daa9a3156.jpg" data-bsgallery="Commercial Roofing" data-galleryid="788793808952618" data-itemid="788793808952618-788790779348530" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/2e1678c7-13fb-4208-a2e1-398daa9a3156.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/2e1678c7-13fb-4208-a2e1-398daa9a3156.jpg" alt="Commercial Roofing Photo 1">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/2e1678c7-13fb-4208-a2e1-398daa9a3156.jpg" data-bsgallery="Commercial Roofing" data-galleryid="788793808952618" data-itemid="788793808952618-788790779348530" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/2e1678c7-13fb-4208-a2e1-398daa9a3156.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/2e1678c7-13fb-4208-a2e1-398daa9a3156.jpg" alt="Commercial Roofing Photo 1">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -152,8 +152,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/8f31a626-1fd7-4b39-a299-99ec54a63fd9.jpg" data-bsgallery="Commercial Roofing" data-galleryid="788793808952618" data-itemid="788793808952618-788790779348500" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/8f31a626-1fd7-4b39-a299-99ec54a63fd9.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/8f31a626-1fd7-4b39-a299-99ec54a63fd9.jpg" alt="Commercial Roofing Photo 2">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/8f31a626-1fd7-4b39-a299-99ec54a63fd9.jpg" data-bsgallery="Commercial Roofing" data-galleryid="788793808952618" data-itemid="788793808952618-788790779348500" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/8f31a626-1fd7-4b39-a299-99ec54a63fd9.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/8f31a626-1fd7-4b39-a299-99ec54a63fd9.jpg" alt="Commercial Roofing Photo 2">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -161,8 +161,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/1d6b0df0-1e94-4b69-a880-c6d24420754c.jpg" data-bsgallery="Commercial Roofing" data-galleryid="788793808952618" data-itemid="788793808952618-788790779348453" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/1d6b0df0-1e94-4b69-a880-c6d24420754c.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/1d6b0df0-1e94-4b69-a880-c6d24420754c.jpg" alt="Commercial Roofing Photo 3">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/1d6b0df0-1e94-4b69-a880-c6d24420754c.jpg" data-bsgallery="Commercial Roofing" data-galleryid="788793808952618" data-itemid="788793808952618-788790779348453" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/1d6b0df0-1e94-4b69-a880-c6d24420754c.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/1d6b0df0-1e94-4b69-a880-c6d24420754c.jpg" alt="Commercial Roofing Photo 3">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -170,8 +170,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/733616a2-82c0-4aca-96d8-eb4f4c4ab9a1.jpg" data-bsgallery="Commercial Roofing" data-galleryid="788793808952618" data-itemid="788793808952618-788790779348474" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/733616a2-82c0-4aca-96d8-eb4f4c4ab9a1.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/733616a2-82c0-4aca-96d8-eb4f4c4ab9a1.jpg" alt="Commercial Roofing Photo 4">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/733616a2-82c0-4aca-96d8-eb4f4c4ab9a1.jpg" data-bsgallery="Commercial Roofing" data-galleryid="788793808952618" data-itemid="788793808952618-788790779348474" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/733616a2-82c0-4aca-96d8-eb4f4c4ab9a1.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/733616a2-82c0-4aca-96d8-eb4f4c4ab9a1.jpg" alt="Commercial Roofing Photo 4">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -276,8 +276,8 @@
       <div class="row mb-2">
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/3d5c5d13-807a-4e78-88b6-5d54f035dfc1.jpg" data-bsgallery="Storm Damage Restoration" data-galleryid="788793808792948" data-itemid="788793808792948-788789854550341" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/3d5c5d13-807a-4e78-88b6-5d54f035dfc1.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/3d5c5d13-807a-4e78-88b6-5d54f035dfc1.jpg" alt="Storm Damage Restoration Photo 1">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/3d5c5d13-807a-4e78-88b6-5d54f035dfc1.jpg" data-bsgallery="Storm Damage Restoration" data-galleryid="788793808792948" data-itemid="788793808792948-788789854550341" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/3d5c5d13-807a-4e78-88b6-5d54f035dfc1.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/3d5c5d13-807a-4e78-88b6-5d54f035dfc1.jpg" alt="Storm Damage Restoration Photo 1">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -285,8 +285,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/8d9de4c5-4131-483e-bc51-d659e7e8dca7.jpg" data-bsgallery="Storm Damage Restoration" data-galleryid="788793808792948" data-itemid="788793808792948-788789854550314" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/8d9de4c5-4131-483e-bc51-d659e7e8dca7.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/8d9de4c5-4131-483e-bc51-d659e7e8dca7.jpg" alt="Storm Damage Restoration Photo 2">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/8d9de4c5-4131-483e-bc51-d659e7e8dca7.jpg" data-bsgallery="Storm Damage Restoration" data-galleryid="788793808792948" data-itemid="788793808792948-788789854550314" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/8d9de4c5-4131-483e-bc51-d659e7e8dca7.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/8d9de4c5-4131-483e-bc51-d659e7e8dca7.jpg" alt="Storm Damage Restoration Photo 2">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -294,8 +294,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/ebbcc2ea-8aec-463b-8e05-466d0cc744e4.jpg" data-bsgallery="Storm Damage Restoration" data-galleryid="788793808792948" data-itemid="788793808792948-788789854550278" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/ebbcc2ea-8aec-463b-8e05-466d0cc744e4.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/ebbcc2ea-8aec-463b-8e05-466d0cc744e4.jpg" alt="Storm Damage Restoration Photo 3">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/ebbcc2ea-8aec-463b-8e05-466d0cc744e4.jpg" data-bsgallery="Storm Damage Restoration" data-galleryid="788793808792948" data-itemid="788793808792948-788789854550278" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/ebbcc2ea-8aec-463b-8e05-466d0cc744e4.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/ebbcc2ea-8aec-463b-8e05-466d0cc744e4.jpg" alt="Storm Damage Restoration Photo 3">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -303,8 +303,8 @@
          </div>
          <div class="col-xs-3">
             <div class="page-gallery-thumbnail">
-               <a href="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/cf98098d-17b1-49e0-937d-a010badddccf.jpg" data-bsgallery="Storm Damage Restoration" data-galleryid="788793808792948" data-itemid="788793808792948-788789854550297" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/cf98098d-17b1-49e0-937d-a010badddccf.jpg" data-backdrop="static">
-                  <img class="" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/cf98098d-17b1-49e0-937d-a010badddccf.jpg" alt="Storm Damage Restoration Photo 4">
+               <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/cf98098d-17b1-49e0-937d-a010badddccf.jpg" data-bsgallery="Storm Damage Restoration" data-galleryid="788793808792948" data-itemid="788793808792948-788789854550297" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/cf98098d-17b1-49e0-937d-a010badddccf.jpg" data-backdrop="static">
+                  <img class="" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/cf98098d-17b1-49e0-937d-a010badddccf.jpg" alt="Storm Damage Restoration Photo 4">
                   <div class="label-overlay">
                   </div>
                </a>
@@ -403,5 +403,5 @@
          <!-- /.modal-dialog -->
       </div>
    </div>
-   <script defer="" src="/js/bundle/bundle.ui.gallery.min.js?v=16.19.1"></script>
+   <script defer src="<?php echo get_stylesheet_directory_uri();?>/assets/js/bundle/bundle.ui.gallery.minb8cd.js?v=16.16.0"></script>
 </div>

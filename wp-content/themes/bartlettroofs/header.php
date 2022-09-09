@@ -84,7 +84,7 @@
    <?php
       $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
    ?>
-   <body class="<?php echo ($uri_segments[3]=='residential-roofing' ? 'home-page':'toplevel-page') ?> transparent" id="main-body">
+   <body class="<?php echo ($uri_segments[3]=='residential-roofing' ? 'home-page':'toplevel-page') ?> transparent toplevel-page" id="main-body">
       <div class="position-relative">
          <nav id="header" class="header navbar navbar-main keep-on-screen" role="navigation">
             <div class="container-fluid">
