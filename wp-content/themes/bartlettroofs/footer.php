@@ -43,10 +43,10 @@
                            Help            
                         </p>
                         <ul class="list-unstyled">
-                           <li class=""><a href="contact-us/index.html"  >Contact</a></li>
-                           <li class=""><a href="offers/warranty/index.html"  >Warranty</a></li>
-                           <li class=""><a href="offers/financing/index.html"  >Financing</a></li>
-                           <li class=""><a href="customer-service/index.html"  >Customer Service</a></li>
+                           <li class=""><a href="/bartlettroofs/contact-us/contact-us"  >Contact</a></li>
+                           <li class=""><a href="/bartlettroofs/offers/warranty"  >Warranty</a></li>
+                           <li class=""><a href="/bartlettroofs/offers/financing"  >Financing</a></li>
+                           <li class=""><a href="/bartlettroofs/customer-service/customer-service"  >Customer Service</a></li>
                         </ul>
                      </div>
                      <div class="col-md-3">
@@ -54,9 +54,9 @@
                            Products            
                         </p>
                         <ul class="list-unstyled">
-                           <li class=""><a href="roofing/index.html"  >Residential Roofing</a></li>
-                           <li class=""><a href="commercial-roofing/index.html"  >Commercial Roofing</a></li>
-                           <li class=""><a href="storm-damage-restoration/index.html"  >Storm Restoration</a></li>
+                           <li class=""><a href="/bartlettroofs/main/residential-roofing"  >Residential Roofing</a></li>
+                           <li class=""><a href="/bartlettroofs/main/commercial-roofing"  >Commercial Roofing</a></li>
+                           <li class=""><a href="/bartlettroofs/main/storm-damage-2"  >Storm Restoration</a></li>
                         </ul>
                      </div>
                      <div class="col-md-3">
@@ -69,7 +69,7 @@
                            <li class=""><a href="/bartlettroofs/other-pages/idaho-falls-id"  >Idaho Falls, ID</a></li>
                            <li class=""><a href="/bartlettroofs/other-pages/salt-lake-city-ut"  >Salt Lake City, UT</a></li>
                            <li class=""><a href="/bartlettroofs/other-pages/kalispell-mt"  >Kalispell, MT</a></li>
-                           <li class=""><a href="service-areas/index.html"  >View All</a></li>
+                           <li class=""><a href="/bartlettroofs/offers/service-areas"  >View All</a></li>
                         </ul>
                      </div>
                      <div class="col-md-3">
@@ -77,12 +77,12 @@
                            Company            
                         </p>
                         <ul class="list-unstyled">
-                           <li class=""><a href="about-us/index.html"  >About</a></li>
-                           <li class=""><a href="blog/index.html"  >Blog</a></li>
-                           <li class=""><a href="offers/index.html"  >Offers</a></li>
-                           <li class=""><a href="reviews/index.html"  >Reviews</a></li>
-                           <li class=""><a href="careers/index.html"  >Careers</a></li>
-                           <li class=""><a href="past-projects/index1d78.html?map"  >Past Projects</a></li>
+                           <li class=""><a href="/bartlettroofs/about-us/about-us"  >About</a></li>
+                           <li class=""><a href="/bartlettroofs/blog/blog"  >Blog</a></li>
+                           <li class=""><a href="/bartlettroofs/offers/offers"  >Offers</a></li>
+                           <li class=""><a href="/bartlettroofs/reviews/reviews"  >Reviews</a></li>
+                           <li class=""><a href="/bartlettroofs/careers/careers"  >Careers</a></li>
+                           <li class=""><a href="#"  >Past Projects</a></li>
                         </ul>
                      </div>
                   </div>

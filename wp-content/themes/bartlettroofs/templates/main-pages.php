@@ -28,11 +28,18 @@
             get_template_part('template-parts/main-services-section','main-services-section');
          ?>
          <!-- services section -->
+         <?php
+         $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
+         if($uri_segments[2] == 'main' && $uri_segments[3] == 'residential-roofing') { 
+         ?>
          <section class="page-section">
             <div data-shingle="trudefinition-duration-designer"
                class="oc_shingle_view"></div>
-            <script src="../../www.owenscorning.com/en-na/widgets/public-widgets.js" async></script>
+            <script src="<?php echo get_template_directory_uri() ?>/assets/js/public-widget.js" async></script>
          </section>
+         <?php
+         }
+         ?>
          <!-- OC widget section -->
          <?php
             get_template_part('template-parts/main-offers-section','main-offers-section');
