@@ -8,12 +8,12 @@
                      <div class="offer-panel">
                         <div class="panel panel-default">
                            <div class="panel-hero">
-                              <a href="../offers/financing/index.html" >
+                              <a href="/bartlettroofs/offers/financing" >
                               <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/355b1897-0811-473a-b697-01fd19b3a72d.png" alt="Quick Apply Now: One-Step Financing Applications!">
                               </a>
                            </div>
                            <div class="panel-body match-height">
-                              <a href="../offers/financing/index.html" >
+                              <a href="/bartlettroofs/offers/financing" >
                                  <p class="offer-title h3">Quick Apply Now: One-Step Financing Applications!</p>
                               </a>
                               <p>We offer flexible financing plans with excellent benefits for customers.</p>
@@ -21,7 +21,7 @@
                               </p>
                            </div>
                            <div class="panel-footer">
-                              <a class="btn btn-info btn-padding btn-block ellipsis" href="../offers/financing/index.html" >Learn More</a>
+                              <a class="btn btn-info btn-padding btn-block ellipsis" href="/bartlettroofs/offers/financing" >Learn More</a>
                            </div>
                         </div>
                      </div>
@@ -69,12 +69,12 @@
                      <div class="offer-panel">
                         <div class="panel panel-default">
                            <div class="panel-hero">
-                              <a href="../offers/referral-bonus/index.html" >
+                              <a href="../offers//bartlettroofs/offers/referral-bonus" >
                               <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/e89c9047-ae91-43e5-9351-c955ba5e4fa5.png" alt="Earn up to $1,000 in Referrals From Bartlett Roofing">
                               </a>
                            </div>
                            <div class="panel-body match-height">
-                              <a href="../offers/referral-bonus/index.html" >
+                              <a href="../offers//bartlettroofs/offers/referral-bonus" >
                                  <p class="offer-title h3">Earn up to $1,000 in Referrals From Bartlett Roofing</p>
                               </a>
                               <p>Make some cash while letting friends and family know about our roofing services.</p>
@@ -82,7 +82,7 @@
                               </p>
                            </div>
                            <div class="panel-footer">
-                              <a class="btn btn-info btn-padding btn-block ellipsis" href="../offers/referral-bonus/index.html" >Learn More</a>
+                              <a class="btn btn-info btn-padding btn-block ellipsis" href="../offers//bartlettroofs/offers/referral-bonus" >Learn More</a>
                            </div>
                         </div>
                      </div>
@@ -130,12 +130,12 @@
                      <div class="offer-panel">
                         <div class="panel panel-default">
                            <div class="panel-hero">
-                              <a href="../offers/warranty/index.html" >
+                              <a href="/bartlettroofs/offers/warranty" >
                               <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/6b0e9ace-a903-4d69-b6ee-8a1042b16b07.png" alt="Get 100% Warranty Coverage on Labor for 5 Years!">
                               </a>
                            </div>
                            <div class="panel-body match-height">
-                              <a href="../offers/warranty/index.html" >
+                              <a href="/bartlettroofs/offers/warranty" >
                                  <p class="offer-title h3">Get 100% Warranty Coverage on Labor for 5 Years!</p>
                               </a>
                               <p>Enjoy our comprehensive workmanship warranty from day one of project completion.</p>
@@ -143,7 +143,7 @@
                               </p>
                            </div>
                            <div class="panel-footer">
-                              <a class="btn btn-info btn-padding btn-block ellipsis" href="../offers/warranty/index.html" >Learn More</a>
+                              <a class="btn btn-info btn-padding btn-block ellipsis" href="/bartlettroofs/offers/warranty" >Learn More</a>
                            </div>
                         </div>
                      </div>

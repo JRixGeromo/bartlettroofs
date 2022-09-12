@@ -95,12 +95,12 @@
    <div class="offer-panel text-center">
       <div class="panel panel-default">
          <div class="panel-hero">
-            <a href="/offers/warranty/">
+            <a href="/bartlettroofs/offers/warranty">
             <img class="img-responsive" src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/6b0e9ace-a903-4d69-b6ee-8a1042b16b07.png" alt="Get 100% Warranty Coverage on Labor for 5 Years!">
             </a>
          </div>
          <div class="panel-body">
-            <a href="/offers/warranty/">
+            <a href="/bartlettroofs/offers/warranty">
                <p class="offer-title h3">Get 100% Warranty Coverage on Labor for 5 Years!</p>
             </a>
             <p>Enjoy our comprehensive workmanship warranty from day one of project completion.</p>
@@ -109,7 +109,7 @@
             </p>
          </div>
          <div class="panel-footer">
-            <a class="btn btn-info btn-padding btn-block" href="/offers/warranty/">Learn More</a>
+            <a class="btn btn-info btn-padding btn-block" href="/bartlettroofs/offers/warranty">Learn More</a>
          </div>
       </div>
    </div>

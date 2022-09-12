@@ -10,12 +10,12 @@
             <div class="col-xs-6 col-md-4 offer-panel text-center ">
                <div class="panel panel-default">
                   <div class="panel-hero">
-                     <a href="financing/index.html" >
+                     <a href="/bartlettroofs/offers/financing" >
                      <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/355b1897-0811-473a-b697-01fd19b3a72d.png" alt="Quick Apply Now: One-Step Financing Applications!">
                      </a>
                   </div>
                   <div class="panel-body match-height">
-                     <a href="financing/index.html" >
+                     <a href="/bartlettroofs/offers/financing" >
                         <h3 class="offer-title">Quick Apply Now: One-Step Financing Applications!</h3>
                      </a>
                      <p>We offer flexible financing plans with excellent benefits for customers.</p>
@@ -24,7 +24,7 @@
                      </p>
                   </div>
                   <div class="panel-footer">
-                     <a class="btn btn-info btn-padding btn-block ellipsis" href="financing/index.html" >Learn More</a>
+                     <a class="btn btn-info btn-padding btn-block ellipsis" href="/bartlettroofs/offers/financing" >Learn More</a>
                   </div>
                </div>
             </div>
@@ -70,12 +70,12 @@
             <div class="col-xs-6 col-md-4 offer-panel text-center ">
                <div class="panel panel-default">
                   <div class="panel-hero">
-                     <a href="referral-bonus/index.html" >
+                     <a href="/bartlettroofs/offers/referral-bonus" >
                      <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/e89c9047-ae91-43e5-9351-c955ba5e4fa5.png" alt="Earn up to $1,000 in Referrals From Bartlett Roofing">
                      </a>
                   </div>
                   <div class="panel-body match-height">
-                     <a href="referral-bonus/index.html" >
+                     <a href="/bartlettroofs/offers/referral-bonus" >
                         <h3 class="offer-title">Earn up to $1,000 in Referrals From Bartlett Roofing</h3>
                      </a>
                      <p>Make some cash while letting friends and family know about our roofing services.</p>
@@ -84,7 +84,7 @@
                      </p>
                   </div>
                   <div class="panel-footer">
-                     <a class="btn btn-info btn-padding btn-block ellipsis" href="referral-bonus/index.html" >Learn More</a>
+                     <a class="btn btn-info btn-padding btn-block ellipsis" href="/bartlettroofs/offers/referral-bonus" >Learn More</a>
                   </div>
                </div>
             </div>
@@ -130,12 +130,12 @@
             <div class="col-xs-6 col-md-4 offer-panel text-center ">
                <div class="panel panel-default">
                   <div class="panel-hero">
-                     <a href="warranty/index.html" >
+                     <a href="/bartlettroofs/offers/warranty" >
                      <img class="img-responsive lazyload" src="../img/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/6b0e9ace-a903-4d69-b6ee-8a1042b16b07.png" alt="Get 100% Warranty Coverage on Labor for 5 Years!">
                      </a>
                   </div>
                   <div class="panel-body match-height">
-                     <a href="warranty/index.html" >
+                     <a href="/bartlettroofs/offers/warranty" >
                         <h3 class="offer-title">Get 100% Warranty Coverage on Labor for 5 Years!</h3>
                      </a>
                      <p>Enjoy our comprehensive workmanship warranty from day one of project completion.</p>
@@ -144,7 +144,7 @@
                      </p>
                   </div>
                   <div class="panel-footer">
-                     <a class="btn btn-info btn-padding btn-block ellipsis" href="warranty/index.html" >Learn More</a>
+                     <a class="btn btn-info btn-padding btn-block ellipsis" href="/bartlettroofs/offers/warranty" >Learn More</a>
                   </div>
                </div>
             </div>
