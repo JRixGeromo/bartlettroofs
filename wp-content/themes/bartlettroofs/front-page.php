@@ -117,7 +117,7 @@
                      <span class="sr-only">Next</span>
                      </a>
                      <div>
-                        <a href="reviews/index.html" class="btn btn-info btn-padding">Read All Reviews</a>
+                        <a href="/bartlettroofs/reviews/reviews" class="btn btn-info btn-padding">Read All Reviews</a>
                      </div>
                   </div>
                </div>
@@ -263,7 +263,7 @@
             <div class="row scroll-row">
                <div class="col-md-4 triggerAnimate fadeInUp delay-2ms">
                   <div class="services-outer">
-                     <a href="roofing/index.html">
+                     <a href="/bartlettroofs/main/residential-roofing">
                         <img class="img-responsive center-block lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/roofing.jpg" alt="Residential Roofing">
                         <div class="services match-height">
                            <p class="h4">Residential Roofing</p>
@@ -274,7 +274,7 @@
                </div>
                <div class="col-md-4 triggerAnimate fadeInUp delay-4ms">
                   <div class="services-outer">
-                     <a href="commercial-roofing/index.html">
+                     <a href="/bartlettroofs/main/commercial-roofing">
                         <img class="img-responsive center-block lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/commercial-roofing.jpg" alt="Residential Roofing">
                         <div class="services match-height">
                            <p class="h4">Commercial Roofing</p>
@@ -285,7 +285,7 @@
                </div>
                <div class="col-md-4 triggerAnimate fadeInUp delay-6ms">
                   <div class="services-outer">
-                     <a href="storm-damage-restoration/index.html">
+                     <a href="/bartlettroofs/main/storm-damage-2">
                         <img class="img-responsive center-block lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/storm-damage.jpg" alt="Storm Damage">
                         <div class="services match-height">
                            <p class="h4">Storm Damage</p>
@@ -308,12 +308,12 @@
                   <div class="offer-panel">
                      <div class="panel panel-default">
                         <div class="panel-hero">
-                           <a href="offers/financing/index.html" >
+                           <a href="/bartlettroofs/offers/financing" >
                            <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/355b1897-0811-473a-b697-01fd19b3a72d.png" alt="Quick Apply Now: One-Step Financing Applications!">
                            </a>
                         </div>
                         <div class="panel-body match-height">
-                           <a href="offers/financing/index.html" >
+                           <a href="/bartlettroofs/offers/financing" >
                               <p class="offer-title h3">Quick Apply Now: One-Step Financing Applications!</p>
                            </a>
                            <p>We offer flexible financing plans with excellent benefits for customers.</p>
@@ -321,7 +321,7 @@
                            </p>
                         </div>
                         <div class="panel-footer">
-                           <a class="btn btn-info btn-padding btn-block ellipsis" href="offers/financing/index.html" >Learn More</a>
+                           <a class="btn btn-info btn-padding btn-block ellipsis" href="/bartlettroofs/offers/financing" >Learn More</a>
                         </div>
                      </div>
                   </div>
@@ -369,12 +369,12 @@
                   <div class="offer-panel">
                      <div class="panel panel-default">
                         <div class="panel-hero">
-                           <a href="offers/referral-bonus/index.html" >
+                           <a href="/bartlettroofs/offers/referral-bonus" >
                            <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/e89c9047-ae91-43e5-9351-c955ba5e4fa5.png" alt="Earn up to $1,000 in Referrals From Bartlett Roofing">
                            </a>
                         </div>
                         <div class="panel-body match-height">
-                           <a href="offers/referral-bonus/index.html" >
+                           <a href="/bartlettroofs/offers/referral-bonus" >
                               <p class="offer-title h3">Earn up to $1,000 in Referrals From Bartlett Roofing</p>
                            </a>
                            <p>Make some cash while letting friends and family know about our roofing services.</p>
@@ -382,7 +382,7 @@
                            </p>
                         </div>
                         <div class="panel-footer">
-                           <a class="btn btn-info btn-padding btn-block ellipsis" href="offers/referral-bonus/index.html" >Learn More</a>
+                           <a class="btn btn-info btn-padding btn-block ellipsis" href="/bartlettroofs/offers/referral-bonus" >Learn More</a>
                         </div>
                      </div>
                   </div>
@@ -430,12 +430,12 @@
                   <div class="offer-panel">
                      <div class="panel panel-default">
                         <div class="panel-hero">
-                           <a href="offers/warranty/index.html" >
+                           <a href="/bartlettroofs/offers/warranty" >
                            <img class="img-responsive lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/offers/images/medium/6b0e9ace-a903-4d69-b6ee-8a1042b16b07.png" alt="Get 100% Warranty Coverage on Labor for 5 Years!">
                            </a>
                         </div>
                         <div class="panel-body match-height">
-                           <a href="offers/warranty/index.html" >
+                           <a href="/bartlettroofs/offers/warranty" >
                               <p class="offer-title h3">Get 100% Warranty Coverage on Labor for 5 Years!</p>
                            </a>
                            <p>Enjoy our comprehensive workmanship warranty from day one of project completion.</p>
@@ -443,7 +443,7 @@
                            </p>
                         </div>
                         <div class="panel-footer">
-                           <a class="btn btn-info btn-padding btn-block ellipsis" href="offers/warranty/index.html" >Learn More</a>
+                           <a class="btn btn-info btn-padding btn-block ellipsis" href="/bartlettroofs/offers/warranty" >Learn More</a>
                         </div>
                      </div>
                   </div>
@@ -500,7 +500,7 @@
                      <h2 class="section-title">What Makes Our Remodelers the Best?</h2>
                      <p>Bartlett Roofing is a professional roofing and restoration company headquartered in Boise, ID. A proudly local business, Bartlett Roofing began with Doug Bartlett’s family-owned framing crew back in the early ‘90s. Today, we are a full-scale operation with a team large enough to serve homeowners and businesses in cities across multiple states, including Idaho, Montana, Nevada, Oregon, Utah, Washington, and Wyoming.</p>
                      <p>Since we have such a large team, we are able to provide a wide range of offerings from affordable to high-end. Whether you’re in need of roof maintenance, replacement, or storm damage restoration, you can count on us to provide the best products and services—with no hard sales and no obligation!</p>
-                     <a class="btn btn-info btn-padding" href="about-us/index.html">Learn More</a>
+                     <a class="btn btn-info btn-padding" href="/bartlettroofs/about-us/about-us">Learn More</a>
                      <a href="#price-quote" class="btn btn-primary btn-padding scroll-to">Book Your Inspection</a>
                   </div>
                </div>
@@ -514,7 +514,7 @@
                <span class="subhead">Careers</span>
                <h2 class="section-title">Interested In Joining Our Team?</h2>
             </div>
-            <a href="careers/index.html" class="btn btn-info btn-padding">View Open Positions</a>
+            <a href="/bartlettroofs/careers/careers" class="btn btn-info btn-padding">View Open Positions</a>
          </div>
       </section>
       <!-- careers section -->
@@ -526,7 +526,7 @@
                   <p class="lead">Get inspired for your own upcoming project.</p>
                </div>
                <div class="col-md-3 triggerAnimate fadeInRight delay-4ms">
-                  <a href="gallery/index.html" class="btn btn-info btn-lg btn-padding">Explore</a>
+                  <a href="/bartlettroofs/gallery/gallery" class="btn btn-info btn-lg btn-padding">Explore</a>
                </div>
             </div>
          </div>
@@ -535,57 +535,57 @@
                <div class="row mb-2">
                   <div class="col-xs-3">
                      <div class="page-gallery-thumbnail">
-                        <a href="../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/a02c02f9-88ab-4ec9-91a2-b51e9eba2fdf.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785666799" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/a02c02f9-88ab-4ec9-91a2-b51e9eba2fdf.jpg" data-backdrop="static">
-                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/a02c02f9-88ab-4ec9-91a2-b51e9eba2fdf.jpg" alt="Home Gallery Photo 1" />
+                        <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/a02c02f9-88ab-4ec9-91a2-b51e9eba2fdf.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785666799" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/a02c02f9-88ab-4ec9-91a2-b51e9eba2fdf.jpg" data-backdrop="static">
+                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/a02c02f9-88ab-4ec9-91a2-b51e9eba2fdf.jpg" alt="Home Gallery Photo 1" />
                         </a>
                      </div>
                   </div>
                   <div class="col-xs-3">
                      <div class="page-gallery-thumbnail">
-                        <a href="../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/4cab665a-c389-41f8-bcb2-50a8c1c74a66.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785659449" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/4cab665a-c389-41f8-bcb2-50a8c1c74a66.jpg" data-backdrop="static">
-                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/4cab665a-c389-41f8-bcb2-50a8c1c74a66.jpg" alt="Home Gallery Photo 2" />
+                        <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/4cab665a-c389-41f8-bcb2-50a8c1c74a66.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785659449" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/4cab665a-c389-41f8-bcb2-50a8c1c74a66.jpg" data-backdrop="static">
+                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/4cab665a-c389-41f8-bcb2-50a8c1c74a66.jpg" alt="Home Gallery Photo 2" />
                         </a>
                      </div>
                   </div>
                   <div class="col-xs-3">
                      <div class="page-gallery-thumbnail">
-                        <a href="../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/f35d0735-727f-4a0d-99d8-a7d78eada572.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785664507" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/f35d0735-727f-4a0d-99d8-a7d78eada572.jpg" data-backdrop="static">
-                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/f35d0735-727f-4a0d-99d8-a7d78eada572.jpg" alt="Home Gallery Photo 3" />
+                        <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/f35d0735-727f-4a0d-99d8-a7d78eada572.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785664507" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/f35d0735-727f-4a0d-99d8-a7d78eada572.jpg" data-backdrop="static">
+                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/f35d0735-727f-4a0d-99d8-a7d78eada572.jpg" alt="Home Gallery Photo 3" />
                         </a>
                      </div>
                   </div>
                   <div class="col-xs-3">
                      <div class="page-gallery-thumbnail">
-                        <a href="../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/5a0cd22a-d98f-4007-ad44-0bfe2be50e3f.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785661471" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/5a0cd22a-d98f-4007-ad44-0bfe2be50e3f.jpg" data-backdrop="static">
-                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/5a0cd22a-d98f-4007-ad44-0bfe2be50e3f.jpg" alt="Home Gallery Photo 4" />
+                        <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/5a0cd22a-d98f-4007-ad44-0bfe2be50e3f.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785661471" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/5a0cd22a-d98f-4007-ad44-0bfe2be50e3f.jpg" data-backdrop="static">
+                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/5a0cd22a-d98f-4007-ad44-0bfe2be50e3f.jpg" alt="Home Gallery Photo 4" />
                         </a>
                      </div>
                   </div>
                   <div class="col-xs-3">
                      <div class="page-gallery-thumbnail">
-                        <a href="../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/10ddd27d-4887-4923-9ee7-6c610d549260.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785662483" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/10ddd27d-4887-4923-9ee7-6c610d549260.jpg" data-backdrop="static">
-                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/10ddd27d-4887-4923-9ee7-6c610d549260.jpg" alt="Home Gallery Photo 5" />
+                        <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/10ddd27d-4887-4923-9ee7-6c610d549260.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785662483" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/10ddd27d-4887-4923-9ee7-6c610d549260.jpg" data-backdrop="static">
+                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/10ddd27d-4887-4923-9ee7-6c610d549260.jpg" alt="Home Gallery Photo 5" />
                         </a>
                      </div>
                   </div>
                   <div class="col-xs-3">
                      <div class="page-gallery-thumbnail">
-                        <a href="../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/7c6db774-3ea5-42d0-915d-6ab28b530ca0.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785663495" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/7c6db774-3ea5-42d0-915d-6ab28b530ca0.jpg" data-backdrop="static">
-                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/7c6db774-3ea5-42d0-915d-6ab28b530ca0.jpg" alt="Home Gallery Photo 6" />
+                        <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/7c6db774-3ea5-42d0-915d-6ab28b530ca0.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785663495" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/7c6db774-3ea5-42d0-915d-6ab28b530ca0.jpg" data-backdrop="static">
+                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/7c6db774-3ea5-42d0-915d-6ab28b530ca0.jpg" alt="Home Gallery Photo 6" />
                         </a>
                      </div>
                   </div>
                   <div class="col-xs-3">
                      <div class="page-gallery-thumbnail">
-                        <a href="../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/41507112-9b9d-4cb8-83df-c1031d73d9a6.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785660462" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/41507112-9b9d-4cb8-83df-c1031d73d9a6.jpg" data-backdrop="static">
-                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/41507112-9b9d-4cb8-83df-c1031d73d9a6.jpg" alt="Home Gallery Photo 7" />
+                        <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/41507112-9b9d-4cb8-83df-c1031d73d9a6.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785660462" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/41507112-9b9d-4cb8-83df-c1031d73d9a6.jpg" data-backdrop="static">
+                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/41507112-9b9d-4cb8-83df-c1031d73d9a6.jpg" alt="Home Gallery Photo 7" />
                         </a>
                      </div>
                   </div>
                   <div class="col-xs-3">
                      <div class="page-gallery-thumbnail">
-                        <a href="../cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/original/659035b0-6a42-4400-a556-8effc5578472.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785665522" data-description="" data-gallerytype="image" data-thumb-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/thumbs/659035b0-6a42-4400-a556-8effc5578472.jpg" data-backdrop="static">
-                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="https://cmsplatform.blob.core.windows.net/wwwbartlettroofscom/gallery/medium/659035b0-6a42-4400-a556-8effc5578472.jpg" alt="Home Gallery Photo 8" />
+                        <a href="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/659035b0-6a42-4400-a556-8effc5578472.jpg" data-bsgallery="Home Gallery" data-galleryid="788793809084143" data-itemid="788793809084143-788792785665522" data-description="" data-gallerytype="image" data-thumb-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/659035b0-6a42-4400-a556-8effc5578472.jpg" data-backdrop="static">
+                        <img class="lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/659035b0-6a42-4400-a556-8effc5578472.jpg" alt="Home Gallery Photo 8" />
                         </a>
                      </div>
                   </div>
@@ -724,6 +724,9 @@
             </div>
          </div>
       </section>
+      <?php
+         // get_template_part('template-parts/main-service-areas-section','main-service-areas-section');
+      ?>    
       <!-- service areas section -->
       <section class="page-section cta-section triggerAnimate fadeInUp">
          <div class="container">
