@@ -700,9 +700,6 @@
             ?>
          </div>
       </section>
-      <?php
-         // get_template_part('template-parts/main-service-areas-section','main-service-areas-section');
-      ?>    
       <!-- service areas section -->
       <section class="page-section cta-section triggerAnimate fadeInUp">
          <div class="container">

@@ -169,7 +169,7 @@
          </div>
          <p class="h4 mt-0 mb-1">Highly Recommend Taylor Batchelor as Project Mgr</p>
          <p class="review-body">I had gotten a lot of door knockers wanting to inspect my roof due to wind damage.  I always said no until I talked to Taylor.  He was different – very professional and knowledgeable – so I agreed to let him on my roof.  He spent a considerable amoun...</p>
-         <p class="link-reviews"><a href="/reviews/">Read all reviews</a></p>
+         <p class="link-reviews"><a href="/bartlettroofs/reviews/reviews">Read all reviews</a></p>
       </div>
    </div>
 </div>
