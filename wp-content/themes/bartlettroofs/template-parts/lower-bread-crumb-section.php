@@ -22,16 +22,12 @@
                 </a>
                 <meta itemprop="position" content="2">
             </li>
-            <?php if(the_field('bread_crumb_2')) { ?>
-                <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-                    <a itemprop="item" href="<?php echo $bc3 ?>">
-                        <span itemprop="name"><?php the_field('bread_crumb_2') ?></span>
-                    </a>
-                    <meta itemprop="position" content="2">
-                </li>
-            <?php 
-                }
-             ?>
+            <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+                <a itemprop="item" href="<?php echo $bc3 ?>">
+                    <span itemprop="name"><?php the_field('bread_crumb_2') ?></span>
+                </a>
+                <meta itemprop="position" content="2">
+            </li>
         </ol>
     </div>
 </div>
