@@ -117,7 +117,7 @@
                   </button>
                   <ul class="nav navbar-nav" role="menubar">
                      <li class="dropdown  " role="presentation">
-                        <a href="/bartlettroofs/main/residential-roofing" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Residential Roofing</a>
+                        <a href="/bartlettroofs/roofing" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Residential Roofing</a>
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="/bartlettroofs/roofing/replacement" role="menuitem"  >Roof Replacement</a></li>
                            <li role="presentation"><a href="/bartlettroofs/roofing/repair" role="menuitem"  >Roof Repair</a></li>
@@ -131,7 +131,7 @@
                         </ul>
                      </li>
                      <li class="dropdown  " role="presentation">
-                        <a href="/bartlettroofs/main/commercial-roofing" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Commercial Roofing</a>
+                        <a href="/bartlettroofs/commercial-roofing" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Commercial Roofing</a>
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="/bartlettroofs/commercial-roofing/replacement-2" role="menuitem"  >Roof Replacement</a></li>
                            <li role="presentation"><a href="/bartlettroofs/commercial-roofing/repair-2" role="menuitem"  >Roof Repair</a></li>
@@ -144,7 +144,7 @@
                         </ul>
                      </li>
                      <li class="dropdown  " role="presentation">
-                        <a href="/bartlettroofs/main/storm-damage-2" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Storm Damage</a>
+                        <a href="/bartlettroofs/storm-damage-restoration" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Storm Damage</a>
                         <ul class='dropdown-menu' role='menu'>
                            <li role="presentation"><a href="/bartlettroofs/storm-damage-restoration/our-process" role="menuitem"  >Our Process</a></li>
                            <li role="presentation"><a href="/bartlettroofs/storm-damage-restoration/storm-damage" role="menuitem"  >Storm Damage</a></li>
@@ -154,32 +154,32 @@
                         </ul>
                      </li>
                      <li class="dropdown  " role="presentation">
-                        <a href="/bartlettroofs/about-us/about-us" class="dropdown-toggle aMain" role="button" aria-expanded=false  >About</a>
+                        <a href="/bartlettroofs/about-us" class="dropdown-toggle aMain" role="button" aria-expanded=false  >About</a>
                         <ul class='dropdown-menu' role='menu'>
-                           <li role="presentation"><a href="/bartlettroofs/blog/blog" role="menuitem"  >Blog</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/offers/offers" role="menuitem"  >Offers</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/gallery/gallery" role="menuitem"  >Gallery</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/reviews/reviews" role="menuitem"  >Reviews</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/careers/careers" role="menuitem"  >Careers</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/contact-us/contact-us" role="menuitem"  >Contact</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/blog" role="menuitem"  >Blog</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/offers" role="menuitem"  >Offers</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/gallery" role="menuitem"  >Gallery</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/reviews" role="menuitem"  >Reviews</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/careers" role="menuitem"  >Careers</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/contact-us" role="menuitem"  >Contact</a></li>
                            <li role="presentation"><a href="/bartlettroofs/offers/warranty" role="menuitem"  >Warranty</a></li>
                            <li role="presentation"><a href="/bartlettroofs/offers/financing" role="menuitem"  >Financing</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/offers/service-areas" role="menuitem"  >Service Areas</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/customer-service/customer-service" role="menuitem"  >Customer Service</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/service-areas" role="menuitem"  >Service Areas</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/customer-service" role="menuitem"  >Customer Service</a></li>
                            <li role="presentation"><a href="#" role="menuitem"  >Past Projects</a></li>
                         </ul>
                      </li>
                      <li class=" hidden-md hidden-lg " role="presentation">
-                        <a href="/bartlettroofs/offers/offers" class=" aMain" role="button"   >Offers</a>
+                        <a href="/bartlettroofs/offers" class=" aMain" role="button"   >Offers</a>
                      </li>
                      <li class=" hidden-md hidden-lg " role="presentation">
-                        <a href="/bartlettroofs/reviews/reviews" class=" aMain" role="button"   >Reviews</a>
+                        <a href="/bartlettroofs/reviews" class=" aMain" role="button"   >Reviews</a>
                      </li>
                      <li class=" hidden-md hidden-lg " role="presentation">
-                        <a href="/bartlettroofs/careers/careers" class=" aMain" role="button"   >Careers</a>
+                        <a href="/bartlettroofs/careers" class=" aMain" role="button"   >Careers</a>
                      </li>
                      <li class=" hidden-md hidden-lg " role="presentation">
-                        <a href="/bartlettroofs/customer-service/customer-service" class=" aMain" role="button"   >Customer Service</a>
+                        <a href="/bartlettroofs/customer-service" class=" aMain" role="button"   >Customer Service</a>
                      </li>
                   </ul>
                </div>

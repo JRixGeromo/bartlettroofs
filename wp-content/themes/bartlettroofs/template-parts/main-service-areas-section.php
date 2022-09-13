@@ -5,7 +5,7 @@
             <h2 class="section-title"><?php the_field('main_service_areas_section') ?></h2>
          </div>
          <div class="col-md-3 triggerAnimate fadeInRight delay-4ms">
-            <a href="/bartlettroofs/offers/service-areas/#" class="btn btn-info btn-lg btn-padding">View More</a>
+            <a href="/bartlettroofs/service-areas/#" class="btn btn-info btn-lg btn-padding">View More</a>
          </div>
       </div>
       <?php

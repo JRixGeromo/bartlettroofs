@@ -117,7 +117,7 @@
                      <span class="sr-only">Next</span>
                      </a>
                      <div>
-                        <a href="/bartlettroofs/reviews/reviews" class="btn btn-info btn-padding">Read All Reviews</a>
+                        <a href="/bartlettroofs/reviews" class="btn btn-info btn-padding">Read All Reviews</a>
                      </div>
                   </div>
                </div>
@@ -263,7 +263,7 @@
             <div class="row scroll-row">
                <div class="col-md-4 triggerAnimate fadeInUp delay-2ms">
                   <div class="services-outer">
-                     <a href="/bartlettroofs/main/residential-roofing">
+                     <a href="/bartlettroofs/roofing">
                         <img class="img-responsive center-block lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/roofing.jpg" alt="Residential Roofing">
                         <div class="services match-height">
                            <p class="h4">Residential Roofing</p>
@@ -274,7 +274,7 @@
                </div>
                <div class="col-md-4 triggerAnimate fadeInUp delay-4ms">
                   <div class="services-outer">
-                     <a href="/bartlettroofs/main/commercial-roofing">
+                     <a href="/bartlettroofs/commercial-roofing">
                         <img class="img-responsive center-block lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/commercial-roofing.jpg" alt="Residential Roofing">
                         <div class="services match-height">
                            <p class="h4">Commercial Roofing</p>
@@ -285,7 +285,7 @@
                </div>
                <div class="col-md-4 triggerAnimate fadeInUp delay-6ms">
                   <div class="services-outer">
-                     <a href="/bartlettroofs/main/storm-damage-2">
+                     <a href="/bartlettroofs/storm-damage-restoration">
                         <img class="img-responsive center-block lazyload" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/ph-rectangle.png" data-src="<?php echo get_stylesheet_directory_uri();?>/assets/images/home/storm-damage.jpg" alt="Storm Damage">
                         <div class="services match-height">
                            <p class="h4">Storm Damage</p>
@@ -500,7 +500,7 @@
                      <h2 class="section-title">What Makes Our Remodelers the Best?</h2>
                      <p>Bartlett Roofing is a professional roofing and restoration company headquartered in Boise, ID. A proudly local business, Bartlett Roofing began with Doug Bartlett’s family-owned framing crew back in the early ‘90s. Today, we are a full-scale operation with a team large enough to serve homeowners and businesses in cities across multiple states, including Idaho, Montana, Nevada, Oregon, Utah, Washington, and Wyoming.</p>
                      <p>Since we have such a large team, we are able to provide a wide range of offerings from affordable to high-end. Whether you’re in need of roof maintenance, replacement, or storm damage restoration, you can count on us to provide the best products and services—with no hard sales and no obligation!</p>
-                     <a class="btn btn-info btn-padding" href="/bartlettroofs/about-us/about-us">Learn More</a>
+                     <a class="btn btn-info btn-padding" href="/bartlettroofs/about-us">Learn More</a>
                      <a href="#price-quote" class="btn btn-primary btn-padding scroll-to">Book Your Inspection</a>
                   </div>
                </div>
@@ -514,7 +514,7 @@
                <span class="subhead">Careers</span>
                <h2 class="section-title">Interested In Joining Our Team?</h2>
             </div>
-            <a href="/bartlettroofs/careers/careers" class="btn btn-info btn-padding">View Open Positions</a>
+            <a href="/bartlettroofs/careers" class="btn btn-info btn-padding">View Open Positions</a>
          </div>
       </section>
       <!-- careers section -->
@@ -526,7 +526,7 @@
                   <p class="lead">Get inspired for your own upcoming project.</p>
                </div>
                <div class="col-md-3 triggerAnimate fadeInRight delay-4ms">
-                  <a href="/bartlettroofs/gallery/gallery" class="btn btn-info btn-lg btn-padding">Explore</a>
+                  <a href="/bartlettroofs/gallery" class="btn btn-info btn-lg btn-padding">Explore</a>
                </div>
             </div>
          </div>

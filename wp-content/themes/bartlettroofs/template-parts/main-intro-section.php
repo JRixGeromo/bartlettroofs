@@ -4,11 +4,11 @@
          <?php
             $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
             $cls = "";
-            if($uri_segments[3] == "residential-roofing") {
+            if($uri_segments[2] == "roofing") {
                $cls = "roofing-intro-bg";
-            } else if($uri_segments[3] == "commercial-roofing") {
+            } else if($uri_segments[2] == "commercial-roofing") {
                $cls = "commercial-roofing-intro-bg";
-            } else if($uri_segments[3] == "storm-damage-2") {
+            } else if($uri_segments[2] == "storm-damage-restoration") {
                $cls = "storm-damage-intro-bg";
             }
          ?>

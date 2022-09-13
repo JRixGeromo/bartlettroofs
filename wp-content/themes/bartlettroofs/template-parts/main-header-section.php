@@ -13,13 +13,13 @@
       <?php
          $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
          $image = "";
-         if($uri_segments[3] == "residential-roofing") {
+         if($uri_segments[2] == "roofing") {
             $image = "hero-roofing.jpg";
-         } else if($uri_segments[3] == "commercial-roofing") {
+         } else if($uri_segments[2] == "commercial-roofing") {
             $image = "hero-commercial-roofing.jpg";
-         } else if($uri_segments[3] == "storm-damage-2") {
+         } else if($uri_segments[2] == "storm-damage-restoration") {
             $image = "hero-storm-damage.jpg";
-         }
+         }         
       ?>
 
       <img class="page-hero-bg" src="<?php echo get_stylesheet_directory_uri();?>/assets/images/page/<?php echo $image ;?>" alt="Background Photo" />

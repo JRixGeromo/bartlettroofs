@@ -56,7 +56,7 @@
                <span class="sr-only">Next</span>
                </a>
                <div>
-                  <a href="/bartlettroofs/reviews/reviews" class="btn btn-info btn-padding">Read All Reviews</a>
+                  <a href="/bartlettroofs/reviews" class="btn btn-info btn-padding">Read All Reviews</a>
                </div>
             </div>
          </div>
