@@ -26,9 +26,6 @@
          <meta property="twitter:title" content="Roofing and Storm Restoration Contractors | Free Roof Inspection | Bartlett Roofing" />
          <meta property="twitter:description" content="Bartlett Roofing is a professional remodeling company servicing Idaho, andUtah, andWashington, andMontana. Learn more about our company and get a quote today!" />
          <meta property="twitter:image" content="<?php echo get_stylesheet_directory_uri();?>/assets/cmsplatform.blob.core.windows.net/wwwbartlettroofscom/logos/8e3f90c7-3f0e-43ca-a14b-b5252d6f7600.png" />
-         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-         <link rel="preconnect" href="https://fonts.googleapis.com/">
-         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
       <?php
       } else {
       ?>
@@ -50,11 +47,10 @@
          <meta property="twitter:title" content="<?php echo the_field('property_twitter_title') ?>" />
          <meta property="twitter:description" content="<?php echo the_field('property_twitter_description') ?>" />
          <meta property="twitter:image" content="<?php echo get_stylesheet_directory_uri();?>/assets/cmsplatform.blob.core.windows.net/wwwbartlettroofscom/logos/8e3f90c7-3f0e-43ca-a14b-b5252d6f7600.png" />
-         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-         <link rel="preconnect" href="https://fonts.googleapis.com/">
-         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
       <?php } ?>
-
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="preconnect" href="https://fonts.googleapis.com/">
+      <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
       <?php
          wp_head();
       ?>
