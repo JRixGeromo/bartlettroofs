@@ -12,11 +12,11 @@
    </div>
    <?php
       $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
-      if($uri_segments[3] == "residential-roofing") {
+      if($uri_segments[2] == "roofing") {
          get_template_part('template-parts/main-gallery-residential-roofing-section','main-gallery-residential-roofing-section');
-      } else if($uri_segments[3] == "commercial-roofing") {
+      } else if($uri_segments[2] == "commercial-roofing") {
          get_template_part('template-parts/main-gallery-commercial-roofing-section','main-gallery-commercial-roofing-section');
-      } else if($uri_segments[3] == "storm-damage-2") {
+      } else if($uri_segments[2] == "storm-damage-restoration") {
          get_template_part('template-parts/main-gallery-storm-damage-section','main-gallery-storm-damage-section');
       }
    ?>  

@@ -1,8 +1,7 @@
 
 <?php
    $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
-
-   if($uri_segments[2] == 'offers' && $uri_segments[2] == 'offers') { 
+   if($uri_segments[2] == 'offers' && $uri_segments[3] == '') { 
       get_template_part('template-parts/offers-content-section','offers-content-section');
    } else if($uri_segments[2] == 'gallery' && $uri_segments[2] == 'gallery') { 
       get_template_part('template-parts/gallery-content-section','gallery-content-section');
