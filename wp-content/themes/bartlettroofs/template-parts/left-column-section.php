@@ -102,6 +102,8 @@
       <p><?php the_field('left_content_4') ?></p>
       <h2><?php the_field('left_content_header_5') ?></h2>
       <p><?php the_field('left_content_5') ?></p>      
+      <h2><?php the_field('left_content_header_6') ?></h2>
+      <p><?php the_field('left_content_6') ?></p>      
       <?php
          $uri_segments = explode("/", parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH));
          if($uri_segments[2]=='about-us') {
