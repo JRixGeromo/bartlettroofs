@@ -136,14 +136,14 @@
                      <li class="dropdown  " role="presentation">
                         <a href="/bartlettroofs/commercial-roofing" class="dropdown-toggle aMain" role="button" aria-expanded=false  >Commercial Roofing</a>
                         <ul class='dropdown-menu' role='menu'>
-                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/replacement-2" role="menuitem"  >Roof Replacement</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/repair-2" role="menuitem"  >Roof Repair</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/replacement" role="menuitem"  >Roof Replacement</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/repair" role="menuitem"  >Roof Repair</a></li>
                            <li role="presentation"><a href="/bartlettroofs/commercial-roofing/multi-family-roofing" role="menuitem"  >Multi Family Roofing</a></li>
                            <li role="presentation"><a href="/bartlettroofs/commercial-roofing/roof-coatings" role="menuitem"  >Roof Coatings</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/asphalt-roofing-2" role="menuitem"  >Asphalt Roofing</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/metal-roofing-2" role="menuitem"  >Metal Roofing</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/asphalt-roofing" role="menuitem"  >Asphalt Roofing</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/metal-roofing" role="menuitem"  >Metal Roofing</a></li>
                            <li role="presentation"><a href="/bartlettroofs/commercial-roofing/tpo-roofing" role="menuitem"  >TPO Roofing</a></li>
-                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/tile-roofing-2" role="menuitem"  >Tile Roofing</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/commercial-roofing/tile-roofing" role="menuitem"  >Tile Roofing</a></li>
                         </ul>
                      </li>
                      <li class="dropdown  " role="presentation">
