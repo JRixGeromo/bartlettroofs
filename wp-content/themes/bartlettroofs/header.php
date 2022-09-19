@@ -169,7 +169,7 @@
                            <li role="presentation"><a href="/bartlettroofs/offers/financing" role="menuitem"  >Financing</a></li>
                            <li role="presentation"><a href="/bartlettroofs/service-areas" role="menuitem"  >Service Areas</a></li>
                            <li role="presentation"><a href="/bartlettroofs/customer-service" role="menuitem"  >Customer Service</a></li>
-                           <li role="presentation"><a href="#" role="menuitem"  >Past Projects</a></li>
+                           <li role="presentation"><a href="/bartlettroofs/past-projects" role="menuitem"  >Past Projects</a></li>
                         </ul>
                      </li>
                      <li class=" hidden-md hidden-lg " role="presentation">

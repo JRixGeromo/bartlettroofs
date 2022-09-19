@@ -11,6 +11,8 @@
       get_template_part('template-parts/contact-us-content-section','contact-us-content-section');
    } else if($uri_segments[2] == 'customer-service' && $uri_segments[2] == 'customer-service') { 
       get_template_part('template-parts/customer-service-content-section','customer-service-content-section');
+   } else if($uri_segments[2] == 'past-projects' && $uri_segments[2] == 'past-projects') { 
+      get_template_part('template-parts/past-projects-section','past-projects-section');
    } else {
       get_template_part('template-parts/center-wide-column-section','center-wide-column-section');
       ?>

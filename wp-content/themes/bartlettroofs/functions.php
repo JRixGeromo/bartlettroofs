@@ -2,6 +2,7 @@
 function bartlettroofs_register_styles() {
 	wp_enqueue_style('bartlettroofs-fonts-googleapis','https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;display=swap', array());
 	wp_enqueue_style('bartlettroofs-bundle-ui',get_template_directory_uri().'/assets/css/bundle/bundle.ui.defaultb8cd.css', array(),'1.0','all');
+	wp_enqueue_style('bartlettroofs-past-projects',get_template_directory_uri().'/assets/css/past-projects.min.css', array(),'1.0','all');
 }
 add_action('wp_enqueue_scripts', 'bartlettroofs_register_styles');
 
